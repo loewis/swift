@@ -8,6 +8,7 @@
 
 #include <algorithm>
 #include <boost/bind.hpp>
+#include <boost/thread.hpp>
 #include <iostream>
 #include <cassert>
 
